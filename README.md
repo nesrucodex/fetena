@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Question Hub Frontend:
+Effortlessly create, explore & buy questions in diverse categories. Features: Secure authentication, user-friendly dashboard, intuitive question creation, categorized organization, powerful search, secure payments, user profiles, responsive design, and feedback/ratings.
 
 ## Available Scripts
 
@@ -11,60 +10,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Project Screen Shots
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="960" alt="Screenshot 2024-01-15 214037" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/064e262d-dc02-4fc6-9465-64eaa229905e">
+<img width="960" alt="Screenshot 2024-01-15 214114" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/f5691549-f1eb-4a46-abe1-f51fc5178f52">
+<img width="948" alt="Screenshot 2024-01-15 214303" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/5f91e3f0-6f99-41af-9a1d-044543aec42b">
+<img width="945" alt="Screenshot 2024-01-15 214453" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/62274bf0-52aa-4341-86f1-686097206e2d">
+<img width="953" alt="Screenshot 2024-01-15 214603" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/7ff5557d-7ebe-437b-ac8f-02c39056ab07">

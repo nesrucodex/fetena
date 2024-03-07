@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Project Screen Shots
 
-<img width="960" alt="Screenshot 2024-01-15 214037" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/064e262d-dc02-4fc6-9465-64eaa229905e">
+
 <img width="960" alt="Screenshot 2024-01-15 214114" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/f5691549-f1eb-4a46-abe1-f51fc5178f52">
 <img width="948" alt="Screenshot 2024-01-15 214303" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/5f91e3f0-6f99-41af-9a1d-044543aec42b">
 <img width="945" alt="Screenshot 2024-01-15 214453" src="https://github.com/nesrucodex/Question-making-selling-frontend-project/assets/155378885/62274bf0-52aa-4341-86f1-686097206e2d">
